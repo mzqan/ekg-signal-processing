@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+kaggle
+matplotlib
+numpy
+pandas
+
