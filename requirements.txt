@@ -1,13 +1,15 @@
-dotenv
-ipykernel
-jupyter
-kaggle
-kagglehub
-matplotlib
-neurokit2
 numpy
 pandas
-PyWavelets
 scipy
 scikit-learn
 
+PyWavelets
+neurokit2
+wfdb
+imblearn
+
+torch
+torchvision
+matplotlib
+jupyter
+ipykernel
